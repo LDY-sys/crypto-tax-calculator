@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://cryptotax.cloud/</loc></url>
-  <url><loc>https://cryptotax.cloud/profit/calc.html</loc></url>
-  <url><loc>https://cryptotax.cloud/faq.html</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://cryptotax.cloud/</loc>
+  </url>
+  <url>
+    <loc>https://cryptotax.cloud/faq.html</loc>
+  </url>
 </urlset>
